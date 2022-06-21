@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IOHanalyzer"]
+	path = IOHanalyzer
+	url = https://github.com/iohprofiler/iohanalyzer
+	shallow = true
+	registered = true
